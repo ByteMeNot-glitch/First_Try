@@ -1,2 +1,1 @@
-# First_Try
-Learning It
+THis IS first Readme For the first_try repo.
